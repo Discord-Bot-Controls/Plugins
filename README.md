@@ -4,7 +4,7 @@
 | Poll | This command will create a embed where the user can 👍/👎. |
 
 ## Checklist
-- [ ] Giveaway
+- [x] Giveaway
 - [x] Poll
 - [ ] Suggest
 - [ ] Timer (A.K.A: Timed Reminder)
