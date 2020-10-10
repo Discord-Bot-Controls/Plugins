@@ -5,7 +5,7 @@
 
 ## Checklist
 - [ ] Giveaway
-- [ ] Poll
+- [x] Poll
 - [ ] Suggest
 - [ ] Timer (A.K.A: Timed Reminder)
 - [ ] Sudo
