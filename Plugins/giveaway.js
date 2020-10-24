@@ -47,7 +47,7 @@ module.exports.command = {
     activated: true,
     info: {
         "example": "!giveaway #channel time item",
-        "note": "Create a nice giveaway now!",
+        "note": "Create a nice giveaway fast!",
         "requirements": "None"
     }
 }
