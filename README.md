@@ -2,6 +2,7 @@
 | Name | Description |
 | --------------- |:---------------:|
 | Poll | This command will create a embed where the user can 👍/👎. |
+| Giveaway | Create a nice giveaway fast! |
 
 ## Checklist
 - [x] Giveaway
