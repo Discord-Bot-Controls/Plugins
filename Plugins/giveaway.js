@@ -48,6 +48,6 @@ module.exports.command = {
     info: {
         "example": "!giveaway #channel time item",
         "note": "Create a nice giveaway fast!",
-        "requirements": "None"
+        "requirements": "MANAGE_CHANNELS"
     }
 }
