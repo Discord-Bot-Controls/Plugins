@@ -49,6 +49,6 @@ module.exports.command = {
     info: {
         "example": "!poll Do you like pizza?",
         "note": "This command will create a embed where the user can 👍/👎.",
-        "requirements": "None/Administrator"
+        "requirements": "None/ADMINISTRATOR"
     }
 }
